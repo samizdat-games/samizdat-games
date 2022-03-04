@@ -1,6 +1,6 @@
 # Samizdat Games
 
-We are an educational board game studio!
+We are an open source educational board game studio!
 
 <!---
 samizdat-games/samizdat-games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
